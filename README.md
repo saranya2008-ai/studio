@@ -21,7 +21,7 @@ EcoTrack is an AI-powered Carbon Footprint Awareness Platform that helps users e
 
 ## Live Demo
 
-https://studio-ten-henna.vercel.app
+https://studio-ten-henna.vercel.app/
 
 ## Problem Statement
 
