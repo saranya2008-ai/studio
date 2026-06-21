@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-sustainability",
+      "description": "Lush green forest representing sustainability",
+      "imageUrl": "https://picsum.photos/seed/green-earth/1200/600",
+      "imageHint": "green forest sustainability"
+    },
+    {
+      "id": "eco-transport",
+      "description": "Electric car charging or bicycle",
+      "imageUrl": "https://picsum.photos/seed/eco-transport/600/400",
+      "imageHint": "electric car bicycle"
+    }
+  ]
+}
